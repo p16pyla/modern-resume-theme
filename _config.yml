@@ -49,7 +49,7 @@ youtube_username: UCc49o3hp1Qac1QCcs3eIDEg
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Dionisis and I'm student at Ionian Univeristy. I am intersting for operation business systems(ERP) and i am olso a deejay.I am 23 years old in the 5th university student year.I live in Corfu until i finish my studys and iam from Athens
-  I am most skilled in: c,c++,java and sql
+  I am most skilled in: c,c++,java,python and sql
   I also use Music softwares for djs and producers(rekordbox,fl studio)
 content:
   - title: Projects # Title for the section
